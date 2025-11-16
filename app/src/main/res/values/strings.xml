@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Edge Viewer</string>
+    <string name="permission_camera_rationale">Camera permission is required for real-time processing</string>
+    <string name="toggle_mode">Toggle Mode</string>
+    <string name="mode_raw">Raw</string>
+    <string name="mode_grayscale">Grayscale</string>
+    <string name="mode_edges">Edges</string>
+</resources>
